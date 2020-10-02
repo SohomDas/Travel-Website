@@ -1,0 +1,32 @@
+
+
+body {
+  font-size: 1.2em;
+  font-family: 'Lato';
+  font-weight: 300;
+  text-align: center;
+}
+
+.box {
+  width: 40%;
+  background: orange;
+  border-radius: 2px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+}
+
+.a {
+  margin: 100vh auto 0 auto;
+}
+
+.b {
+  margin: 20vh auto 0 auto;
+  width: 500px;
+  height: 300px;
+  opacity: 0.5;
+
+}
+.col-lg-6{
+  opacity: 0.8;
+}

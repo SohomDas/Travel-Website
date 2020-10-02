@@ -1,0 +1,109 @@
+
+#content{
+	text-align: center;
+	padding-top: 25%;
+	font-family: 'Dosis', sans-serif;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+				 0px 8px 13px rgba(0,0,0,0.1),
+				 0px 18px 23px rgba(0,0,0,0.1);
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+h1,h3{
+	color: white;
+}
+html{
+	height: 100%;
+}
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+.jumbotron{
+	padding: 0px;
+	}
+
+.card-text,.card-title{
+	padding-left: 10px;
+}
+#sohom{
+	
+	background-color: none;
+}
+.card-img-top{
+	padding-top: 10px;
+}
+.card-text{
+	font-family: 'Cedarville Cursive', cursive;
+}
+.card-img-top{
+	padding-top: 0px;
+}
+.kumkum{
+	padding-top: 10px;
+	padding-left: 5px;
+}
+
+.conti{
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+}
+#targe {
+  align-items: center;
+  background-color: #000;
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  height: 100px;
+  margin-bottom: 150vh;
+  margin-top: 150vh;
+  opacity: 0;
+  transform: translateX(-100%);
+  transition: opacity .25s ease-in-out,
+              transform .25s ease-in-out;
+  width: 200px;
+}
+
+#targe.target-is-active {
+  opacity: 1;
+  transform: none;
+}
+
+.card-title1{
+	font-family: 'Pacifico', cursive;
+}
+
+.card-text1{
+	text-align: left;
+	padding-left: 10px;
+	font-family: 'Acme', sans-serif; 
+}
+#use{
+	text-align: center;
+}
+.shallow{
+	font-family: 'Acme', sans-serif; 
+	line-height: 10%
+}
+.btn-outline-dark{
+	text-align: center;
+}
+.img-thumbnail{
+	padding: 0;
+}
+.card:hover{
+	
+	transform: translateY(20px);
+}
+img:hover{
+        transform: scale(1.0);
+        box-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
+    }
+
+
+.nav-link{
+	scroll-behavior: smooth;
+}
