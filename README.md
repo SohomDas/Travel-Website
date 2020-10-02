@@ -1,2 +1,2 @@
 # Travel-Website
-A Travel website with only frontend created using HTML,CSS
+A Travel website with only frontend created using HTML,CSS ,js
